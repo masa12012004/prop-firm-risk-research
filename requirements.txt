@@ -1,0 +1,14 @@
+# Inferred direct dependencies; no clean installation or version lock verified.
+PyMuPDF
+hmmlearn
+lightgbm
+matplotlib
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+statsmodels
+torch
+tzdata
+yfinance
